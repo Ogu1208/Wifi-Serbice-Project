@@ -1,5 +1,6 @@
 package com.example.wifi_service;
 
+// Wifi Info class
 public class WifiInfo {
     private Double distance; // 거리
 
